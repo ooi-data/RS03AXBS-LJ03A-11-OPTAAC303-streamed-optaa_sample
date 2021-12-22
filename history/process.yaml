@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXBS-LJ03A-11-OPTAAC303-streamed-optaa_sample
 data_stream: RS03AXBS-LJ03A-11-OPTAAC303-streamed-optaa_sample
 end_date: '2021-12-06T23:03:05.904Z'
-last_updated: '2021-12-22T04:11:37.160106Z'
+last_updated: '2021-12-22T11:12:56.813364'
 start_date: '2014-08-28T20:11:00.000Z'
-status: pending
+status: failed

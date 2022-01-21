@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03AXBS-LJ03A-11-OPTAAC303-streamed-optaa_sample
-last_request: '2022-01-01T02:04:54.053225Z'
+last_request: '2022-01-21T18:54:45.496455Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXBS-LJ03A-11-OPTAAC303-streamed-optaa_sample/main/history/response.json
-status: success
+status: pending
